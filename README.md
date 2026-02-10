@@ -88,7 +88,4 @@ The roff/mandoc/mdoc macro languages are highly extensible, fractured between
 multiple dialects, and include a bunch of device specific stuff irrelevant to
 modern publishing tools.
 
-## Copying
 
-Ronn is Copyright (C) 2010 [Ryan Tomayko](http://tomayko.com/about)<br>
-See the file COPYING for information of licensing and distribution.
