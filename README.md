@@ -16,8 +16,8 @@ ronn capabilities:
     [roff output](http://github.com/Unity-Billal-mesloub/ronn/blob/master/man/ronn.1)
 
   * [ronn-format(7)](http://github.com/Unity-Billal-mesloub/ronn-format.7) -
-    [source file](http://github.com/rtomayko/ronn/blob/master/man/ronn-format.7.ronn),
-    [roff output](http://github.com/rtomayko/ronn/blob/master/man/ronn-format.7)
+    [source file](http://github.com/Unity-Billal-mesloub/ronn/blob/master/man/ronn-format.7.ronn),
+    [roff output](http://github.com/Unity-Billal-mesloub/ronn/blob/master/man/ronn-format.7)
 
 [1]: http://github.com/Unity-Billal-mesloub/ronn/tree/main/man
 
@@ -48,7 +48,7 @@ View roff output with man(1):
 
     $ man man/ronn.5
 
-The [ronn(1)](http://rtomayko.github.com/ronn/ronn.1) manual page includes
+The [ronn(1)](http://github.com/Unity-Billal-mesloub/ronn.1) manual page includes
 comprehensive documentation on `ronn` command line options.
 
 ## Background
