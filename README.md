@@ -12,8 +12,8 @@ The `*.ronn` files found in the [`man/`][1] directory show off a wide range of
 ronn capabilities:
 
   * [ronn(1)](http://github.com/Unity-Billal-mesloub/ronn.1) command -
-    [source file](http://github.com/Unity-Billal-mesloub/ronn/blob/master/man/ronn.1.ronn),
-    [roff output](http://github.com/Unity-Billal-mesloub/ronn/blob/master/man/ronn.1)
+    [source file](http://github.com/Unity-Billal-mesloub/ronn/blob/main/man/ronn.1.ronn),
+    [roff output](http://github.com/Unity-Billal-mesloub/ronn/blob/main/man/ronn.1)
 
   * [ronn-format(7)](http://github.com/Unity-Billal-mesloub/ronn-format.7) -
     [source file](http://github.com/Unity-Billal-mesloub/ronn/blob/main/man/ronn-format.7.ronn),
